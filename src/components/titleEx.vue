@@ -1,11 +1,7 @@
-<script>
-
-</script>
+<script></script>
 
 <template>
-  <h1>Ciao a tutti</h1>
+  <h1>Ciao a tutt</h1>
 </template>
 
-<style scoped lang="scss">
-
-</style>
+<style scoped lang="scss"></style>
